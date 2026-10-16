@@ -2,7 +2,7 @@
 # Analysis code is for:
 # "Lesion burden limits the association of cognitive reserve 
 #  with functional stroke outcome"
-# Palpatzis, Gallucci, Sperber, Hakim & Umarova 2026
+# Palpatzis, Gallucci, Martinec, Sperber and Umarova 2026
 # R 4.5.0
 #
 # Data not included (due to ethical restrictions).
